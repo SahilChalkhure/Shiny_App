@@ -1,0 +1,889 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,82.908,1990
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,89.996,1991
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,93.565,1992
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,87.136,1993
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,77.826,1994
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,64.868,1995
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,52.339,1996
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,49.984,1997
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,51.268,1998
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,53.376,1999
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,54.402,2000
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,57.032,2001
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,54.921,2002
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,51.36,2003
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,48.923,2004
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,49.134,2005
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,48.537,2006
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,47.897,2007
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,46.679,2008
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,46.735,2009
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,49.316,2010
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,50.984,2011
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,52.85,2012
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,53.473,2013
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,52.125,2014
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,49.999,2015
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,48.646,2016
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,48.05,2017
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,47.823,2018
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,46.894,2019
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,46.341,2020
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,45.453,2021
+KHM,Cambodia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,45.657,2022
+KHM,Cambodia,assets,Assets (%),MPI,Multidimensional Poverty Index,2.932,2021/22
+KHM,Cambodia,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,1.206,2021/22
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.141,1990
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.141,1991
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.139,1992
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.135,1993
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.139,1994
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.142,1995
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.146,1996
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.136,1997
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.168,1998
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.159,1999
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.163,2000
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.182,2001
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.176,2002
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.186,2003
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.188,2004
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.209,2005
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.222,2006
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.253,2007
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.277,2008
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.322,2009
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.354,2010
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.362,2011
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.377,2012
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.376,2013
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.449,2014
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.543,2015
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.699,2016
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.788,2017
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.869,2018
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.124,2019
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.161,2020
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.213,2021
+KHM,Cambodia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.213,2022
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,28.516,2010
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,27.197,2011
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.379,2012
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.082,2013
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,27.319,2014
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,27.120,2015
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.927,2016
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.738,2017
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.599,2018
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.458,2019
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.326,2020
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.429,2021
+KHM,Cambodia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,26.396,2022
+KHM,Cambodia,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,9.534,2021/22
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.319,1990
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.302,1991
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.289,1992
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.282,1993
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.276,1994
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.253,1995
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.241,1996
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.225,1997
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.214,1998
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.188,1999
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.160,2000
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.119,2001
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.279,2002
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.446,2003
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.403,2004
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.569,2005
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.724,2006
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.695,2007
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.052,2008
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.045,2009
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.952,2010
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.564,2011
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.359,2012
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.527,2013
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.041,2014
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.191,2015
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.141,2016
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.614,2017
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.741,2018
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.859,2019
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.859,2020
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.698,2021
+KHM,Cambodia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.667,2022
+KHM,Cambodia,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,3.977,2021/22
+KHM,Cambodia,electricity,Electricity (%),MPI,Multidimensional Poverty Index,3.618,2021/22
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.885,1990
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.991,1991
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.099,1992
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.206,1993
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.314,1994
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.421,1995
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.529,1996
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.636,1997
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.743,1998
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.851,1999
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.958,2000
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.595,2001
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.778,2002
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.326,2003
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.845,2004
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.003,2005
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.161,2006
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.164,2007
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.056,2008
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.106,2009
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.156,2010
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.207,2011
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.257,2012
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.308,2013
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.359,2014
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.410,2015
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.461,2016
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.512,2017
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.528,2018
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.545,2019
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.561,2020
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.561,2021
+KHM,Cambodia,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.561,2022
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.596,1990
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.642,1991
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.690,1992
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.737,1993
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.785,1994
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.833,1995
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.881,1996
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.930,1997
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.979,1998
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.029,1999
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.078,2000
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.739,2001
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.870,2002
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.429,2003
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.987,2004
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.188,2005
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.389,2006
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.412,2007
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.357,2008
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.431,2009
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.504,2010
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.579,2011
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.654,2012
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.729,2013
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.805,2014
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.880,2015
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.956,2016
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.031,2017
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.130,2018
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.228,2019
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.326,2020
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.326,2021
+KHM,Cambodia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.326,2022
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.269,1990
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.222,1991
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.176,1992
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.129,1993
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.083,1994
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.038,1995
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.992,1996
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.947,1997
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.902,1998
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.857,1999
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.812,2000
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.426,2001
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.659,2002
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.169,2003
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.679,2004
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.796,2005
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.913,2006
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.897,2007
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.736,2008
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.677,2009
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.618,2010
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.560,2011
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.501,2012
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.443,2013
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.385,2014
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.940,2015
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.966,2016
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.992,2017
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.927,2018
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.861,2019
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.796,2020
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.796,2021
+KHM,Cambodia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.796,2022
+KHM,Cambodia,gdi_group,GDI Group,GDI,Gender Development Index,3,2022
+KHM,Cambodia,gii_rank,GII Rank,GII,Gender Inequality Index,122,2022
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1009.782,1993
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,972.292,1994
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1002.993,1995
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1093.941,1996
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1110.152,1997
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1072.106,1998
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1332.536,1999
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1550.807,2000
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1529.595,2001
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1330.401,2002
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1601.402,2003
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1544.454,2004
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1643.164,2005
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1775.619,2006
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2084.893,2007
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2284.576,2008
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2101.999,2009
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2285.958,2010
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2285.152,2011
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2402.486,2012
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2595.403,2013
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2750.276,2014
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2937.777,2015
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3176.574,2016
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3233.158,2017
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3312.933,2018
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3774.163,2019
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3594.309,2020
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3650.586,2021
+KHM,Cambodia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3562.784,2022
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1122.981,1993
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1172.760,1994
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1283.970,1995
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1251.717,1996
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1307.921,1997
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1394.926,1998
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1360.194,1999
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1339.122,2000
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1536.166,2001
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1859.175,2002
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1813.024,2003
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2153.516,2004
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2448.280,2005
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2685.784,2006
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2774.342,2007
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2776.610,2008
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2873.844,2009
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2960.307,2010
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3210.466,2011
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3359.999,2012
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3458.047,2013
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3643.996,2014
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3812.632,2015
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3963.237,2016
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4314.873,2017
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4659.454,2018
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4609.909,2019
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4618.352,2020
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4607.820,2021
+KHM,Cambodia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5034.254,2022
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1013.440,1990
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1043.226,1991
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1067.800,1992
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1064.974,1993
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1070.466,1994
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1140.747,1995
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1171.363,1996
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1207.285,1997
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1230.645,1998
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1346.119,1999
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1446.762,2000
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1532.827,2001
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1590.691,2002
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1705.644,2003
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1844.683,2004
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2040.335,2005
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2224.943,2006
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2425.496,2007
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2527.831,2008
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2483.750,2009
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2619.523,2010
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2742.899,2011
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2876.207,2012
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3022.220,2013
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3192.491,2014
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3370.686,2015
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3565.858,2016
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3768.481,2017
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3979.335,2018
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4187.776,2019
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4101.153,2020
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4124.446,2021
+KHM,Cambodia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4291.113,2022
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.366,1993
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.364,1994
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.368,1995
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.375,1996
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.378,1997
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.379,1998
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.394,1999
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.407,2000
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.421,2001
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.433,2002
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.456,2003
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.465,2004
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.474,2005
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.486,2006
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.499,2007
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.508,2008
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.507,2009
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.513,2010
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.517,2011
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.521,2012
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.528,2013
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.532,2014
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.537,2015
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.548,2016
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.554,2017
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.560,2018
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.572,2019
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.574,2020
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.577,2021
+KHM,Cambodia,hdi_f,HDI female,GDI,Gender Development Index,0.577,2022
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.431,1993
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.434,1994
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.441,1995
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.439,1996
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.444,1997
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.449,1998
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.450,1999
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.453,2000
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.473,2001
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.502,2002
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.512,2003
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.533,2004
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.545,2005
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.556,2006
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.561,2007
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.563,2008
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.567,2009
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.568,2010
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.573,2011
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.576,2012
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.577,2013
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.580,2014
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.592,2015
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.599,2016
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.610,2017
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.617,2018
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.620,2019
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.620,2020
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.617,2021
+KHM,Cambodia,hdi_m,HDI male,GDI,Gender Development Index,0.623,2022
+KHM,Cambodia,hdi_rank,HDI Rank,HDI,Human Development Index,148,2022
+KHM,Cambodia,housing,Housing (%),MPI,Multidimensional Poverty Index,3.628,2021/22
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.329,2010
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.329,2011
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.329,2012
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.329,2013
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2014
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2015
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2016
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2017
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2018
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2019
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,27.305,2020
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.103,2021
+KHM,Cambodia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,28.103,2022
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.588,2010
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.727,2011
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,30.380,2012
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,30.263,2013
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2014
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2015
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2016
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2017
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2018
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2019
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2020
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2021
+KHM,Cambodia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,35.818,2022
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.629,2010
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.534,2011
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.429,2012
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,19.653,2013
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.834,2014
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.237,2015
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.659,2016
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.091,2017
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.673,2018
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.251,2019
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.855,2020
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.367,2021
+KHM,Cambodia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.268,2022
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,55.434,1990
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,55.793,1991
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.021,1992
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.08,1993
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.035,1994
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.308,1995
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.346,1996
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.743,1997
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,57.028,1998
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,57.69,1999
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.625,2000
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.966,2001
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.226,2002
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.523,2003
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.552,2004
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.293,2005
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.059,2006
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.731,2007
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.47,2008
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.444,2009
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.712,2010
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.416,2011
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.915,2012
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.304,2013
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.736,2014
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.873,2015
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.224,2016
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.515,2017
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.561,2018
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.692,2019
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.416,2020
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.584,2021
+KHM,Cambodia,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.896,2022
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,57.987,1990
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.071,1991
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.213,1992
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.245,1993
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.047,1994
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.217,1995
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.4,1996
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.622,1997
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.909,1998
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.575,1999
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.53,2000
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.91,2001
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.316,2002
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.643,2003
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.46,2004
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.209,2005
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.01,2006
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.698,2007
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.479,2008
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.575,2009
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.834,2010
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.726,2011
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.026,2012
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.665,2013
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.881,2014
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.02,2015
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.666,2016
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.689,2017
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.778,2018
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.873,2019
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.724,2020
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.291,2021
+KHM,Cambodia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.622,2022
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.578,1990
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.234,1991
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.568,1992
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.711,1993
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.853,1994
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.233,1995
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.132,1996
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.708,1997
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.991,1998
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,55.643,1999
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.559,2000
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.863,2001
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.973,2002
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.238,2003
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.48,2004
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.213,2005
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.945,2006
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.603,2007
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.299,2008
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.155,2009
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.436,2010
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.957,2011
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.652,2012
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.802,2013
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.446,2014
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.586,2015
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.658,2016
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.213,2017
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.226,2018
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.4,2019
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.999,2020
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.819,2021
+KHM,Cambodia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.117,2022
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,90.07,1993
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,85.7,1994
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,81.32,1995
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.95,1996
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,70.53,1997
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,73.49,1998
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,78.58,1999
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.51,2000
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,81.88,2001
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,78.69,2002
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,75.5,2003
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,75.5,2004
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,75.24,2005
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.98,2006
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.72,2007
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.04,2008
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.38,2009
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,81.28,2010
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,81.84,2011
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.43,2012
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.45,2013
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.35,2014
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,73.42,2015
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,75.91,2016
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.41,2017
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,73.18,2018
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,69.94,2019
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.13,2020
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,73.73,2021
+KHM,Cambodia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,73.73,2022
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.69,1993
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.12,1994
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.55,1995
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.98,1996
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.34,1997
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.21,1998
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.58,1999
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81,2000
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.43,2001
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.68,2002
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.92,2003
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.92,2004
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.81,2005
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.7,2006
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.59,2007
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.84,2008
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.16,2009
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.59,2010
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.39,2011
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.76,2012
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.65,2013
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.7,2014
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.36,2015
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.07,2016
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.84,2017
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.89,2018
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.94,2019
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.87,2020
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.82,2021
+KHM,Cambodia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.82,2022
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,28.782,2010
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.289,2011
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,26.497,2012
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,26.173,2013
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.728,2014
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.482,2015
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.400,2016
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.022,2017
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27.041,2018
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,26.846,2019
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,26.678,2020
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,26.846,2021
+KHM,Cambodia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,27,2022
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.430,1990
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.351,1991
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.348,1992
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.229,1993
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.146,1994
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.928,1995
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.174,1996
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.968,1997
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.934,1998
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.133,1999
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.045,2000
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.115,2001
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.483,2002
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.518,2003
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.675,2004
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.262,2005
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.384,2006
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.206,2007
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.105,2008
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.355,2009
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.803,2010
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.758,2011
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.112,2012
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.459,2013
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.670,2014
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.090,2015
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.482,2016
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.704,2017
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.084,2018
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.8,2019
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.749,2020
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.810,2021
+KHM,Cambodia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.900,2022
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,561.606,1990
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,562.486,1991
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,584.543,1992
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,587.804,1993
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,637.313,1994
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,658.905,1995
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,647.833,1996
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,645.183,1997
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,642.523,1998
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,613.737,1999
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,605.588,2000
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,573.960,2001
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,496.620,2002
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,463.569,2003
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,446.725,2004
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,381.779,2005
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,349.595,2006
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,327.089,2007
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,308.599,2008
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,276.640,2009
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,276.400,2010
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,251.589,2011
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,246.363,2012
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,229.122,2013
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,227.595,2014
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,209.170,2015
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,197.017,2016
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,203.751,2017
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,209.224,2018
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,214.186,2019
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,217.983,2020
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,217.983,2021
+KHM,Cambodia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,217.983,2022
+KHM,Cambodia,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.070,2021/22
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.814,1990
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.869,1991
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.923,1992
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.977,1993
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.032,1994
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.086,1995
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.143,1996
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.199,1997
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.256,1998
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.312,1999
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.369,2000
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.431,2001
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.494,2002
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.557,2003
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.620,2004
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.683,2005
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.804,2006
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.925,2007
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.030,2008
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.937,2009
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.869,2010
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.802,2011
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.734,2012
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.666,2013
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.598,2014
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.674,2015
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.955,2016
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.236,2017
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.517,2018
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.798,2019
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.998,2020
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.197,2021
+KHM,Cambodia,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.197,2022
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.853,1990
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.907,1991
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.961,1992
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.015,1993
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.068,1994
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.122,1995
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.183,1996
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.243,1997
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.303,1998
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.364,1999
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.424,2000
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.491,2001
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.558,2002
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.624,2003
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.691,2004
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.758,2005
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.887,2006
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.016,2007
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.165,2008
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.062,2009
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.028,2010
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.994,2011
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.961,2012
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.927,2013
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.893,2014
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.846,2015
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.102,2016
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.359,2017
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.616,2018
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.873,2019
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.123,2020
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.374,2021
+KHM,Cambodia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.374,2022
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.073,1990
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.117,1991
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.161,1992
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.205,1993
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.248,1994
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.292,1995
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.336,1996
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.380,1997
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.424,1998
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.468,1999
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.511,2000
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.563,2001
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.615,2002
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.667,2003
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.718,2004
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.770,2005
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.886,2006
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.001,2007
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.054,2008
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.978,2009
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.894,2010
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.811,2011
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.727,2012
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.643,2013
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.560,2014
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.762,2015
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.041,2016
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.320,2017
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.600,2018
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.879,2019
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.040,2020
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.200,2021
+KHM,Cambodia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.200,2022
+KHM,Cambodia,nutrition,Nutrition (%),MPI,Multidimensional Poverty Index,20.330,2021/22
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1990
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1991
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1992
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1993
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1994
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1995
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1996
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1997
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1998
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.833,1999
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.290,2000
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.290,2001
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.290,2002
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.870,2003
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.870,2004
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.870,2005
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.413,2006
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.935,2007
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.761,2008
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.022,2009
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.022,2010
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.478,2011
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.478,2012
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.478,2013
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.478,2014
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.022,2015
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.022,2016
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.478,2017
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.251,2018
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.251,2019
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.717,2020
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.786,2021
+KHM,Cambodia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.251,2022
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1990
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1991
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1992
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1993
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1994
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1995
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1996
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1997
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1998
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.167,1999
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.710,2000
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.710,2001
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.710,2002
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.130,2003
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.130,2004
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.130,2005
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.587,2006
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.065,2007
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.239,2008
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.978,2009
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.978,2010
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.522,2011
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.522,2012
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.522,2013
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.522,2014
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.978,2015
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.978,2016
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.522,2017
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.749,2018
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.749,2019
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.283,2020
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.214,2021
+KHM,Cambodia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.749,2022
+KHM,Cambodia,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-2,2022
+KHM,Cambodia,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,6.815,2021/22
+KHM,Cambodia,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,23.141,2021/22
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.157,1990
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.313,1991
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.469,1992
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.625,1993
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.781,1994
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.937,1995
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.099,1996
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.262,1997
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.425,1998
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.587,1999
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.750,2000
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.984,2001
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.218,2002
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.452,2003
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.685,2004
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.919,2005
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.532,2006
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.145,2007
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.107,2008
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.864,2009
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.209,2010
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.555,2011
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.900,2012
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.245,2013
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.590,2014
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.935,2015
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.280,2016
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.625,2017
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.970,2018
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,13.315,2019
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.882,2020
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.449,2021
+KHM,Cambodia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.449,2022
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.838,1990
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.192,1991
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.545,1992
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.899,1993
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.252,1994
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.606,1995
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.915,1996
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.224,1997
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.533,1998
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.841,1999
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.150,2000
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.562,2001
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.974,2002
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,19.386,2003
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,19.797,2004
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,20.209,2005
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,21.301,2006
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,22.393,2007
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,23.868,2008
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,22.210,2009
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,22.544,2010
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,22.878,2011
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,23.212,2012
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,23.546,2013
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,23.880,2014
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,24.215,2015
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,24.549,2016
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,24.883,2017
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,25.217,2018
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,25.551,2019
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.282,2020
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,29.013,2021
+KHM,Cambodia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,29.013,2022
+KHM,Cambodia,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,24.818,2021/22

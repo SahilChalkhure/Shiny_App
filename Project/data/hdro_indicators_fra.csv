@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.71,1990
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.922,1991
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.311,1992
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.157,1993
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.02,1994
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.467,1995
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.328,1996
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.257,1997
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.981,1998
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.893,1999
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.913,2000
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.174,2001
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.451,2002
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.034,2003
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.054,2004
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.938,2005
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.966,2006
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.851,2007
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.953,2008
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.784,2009
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.668,2010
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.331,2011
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.038,2012
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.397,2013
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.074,2014
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.273,2015
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.582,2016
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.288,2017
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.166,2018
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.662,2019
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.407,2020
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.529,2021
+FRA,France,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.442,2022
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.974,1990
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.375,1991
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.170,1992
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.808,1993
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.667,1994
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.730,1995
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.992,1996
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.838,1997
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.127,1998
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.067,1999
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.929,2000
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.965,2001
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.845,2002
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.906,2003
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.882,2004
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.877,2005
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.670,2006
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.460,2007
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.309,2008
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.974,2009
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.030,2010
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.641,2011
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.651,2012
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.660,2013
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.143,2014
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.194,2015
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.220,2016
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.252,2017
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.011,2018
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.898,2019
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.366,2020
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.754,2021
+FRA,France,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.754,2022
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,10.097,2010
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.850,2011
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.586,2012
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.096,2013
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.431,2014
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.314,2015
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.327,2016
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.907,2017
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,10.255,2018
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,10.352,2019
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.692,2020
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.340,2021
+FRA,France,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.767,2022
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.266,1990
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.139,1991
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.042,1992
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.507,1993
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.558,1994
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.736,1995
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.911,1996
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.489,1997
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.269,1998
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.570,1999
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.730,2000
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.570,2001
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.412,2002
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.489,2003
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.847,2004
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.083,2005
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.913,2006
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.100,2007
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.517,2008
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.743,2009
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.682,2010
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.520,2011
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.056,2012
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.135,2013
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.753,2014
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.406,2015
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.487,2016
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.455,2017
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.524,2018
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.061,2019
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.778,2020
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.492,2021
+FRA,France,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.560,2022
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.984,1990
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.469,1991
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.699,1992
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.814,1993
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.644,1994
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.773,1995
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.860,1996
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.819,1997
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.762,1998
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.723,1999
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.937,2000
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.852,2001
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.783,2002
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.869,2003
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.855,2004
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.433,2005
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.418,2006
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.352,2007
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.298,2008
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.272,2009
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.381,2010
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.417,2011
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.489,2012
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.461,2013
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.442,2014
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.514,2015
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.623,2016
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.740,2017
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.844,2018
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.868,2019
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.933,2020
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.988,2021
+FRA,France,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.988,2022
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.280,1990
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.778,1991
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.023,1992
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.153,1993
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.841,1994
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.964,1995
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.070,1996
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.064,1997
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.011,1998
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.971,1999
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.164,2000
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.076,2001
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.032,2002
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.156,2003
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.142,2004
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.722,2005
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.703,2006
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.653,2007
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.590,2008
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.578,2009
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.697,2010
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.747,2011
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.828,2012
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.804,2013
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.815,2014
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.853,2015
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.962,2016
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.088,2017
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.202,2018
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.238,2019
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.337,2020
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.402,2021
+FRA,France,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.402,2022
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.700,1990
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.173,1991
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.387,1992
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.486,1993
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.453,1994
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.586,1995
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.656,1996
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.581,1997
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.519,1998
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.482,1999
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.716,2000
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.632,2001
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.538,2002
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.585,2003
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.572,2004
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.146,2005
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.137,2006
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.055,2007
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.009,2008
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.970,2009
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.067,2010
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.091,2011
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.154,2012
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.124,2013
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.081,2014
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.179,2015
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.288,2016
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.398,2017
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.491,2018
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.506,2019
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.540,2020
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.585,2021
+FRA,France,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.585,2022
+FRA,France,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+FRA,France,gii_rank,GII Rank,GII,Gender Inequality Index,24,2022
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24417.040,1990
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24726.142,1991
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25214.808,1992
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25238.885,1993
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25841.252,1994
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26460.327,1995
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26929.367,1996
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27492.056,1997
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28589.950,1998
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29292.518,1999
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30154.138,2000
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30687.364,2001
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30770.504,2002
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31453.694,2003
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32066.265,2004
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32794.797,2005
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33910.655,2006
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34752.859,2007
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34672.197,2008
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33577.252,2009
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34257.930,2010
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34978.876,2011
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34658.209,2012
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34783.757,2013
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35366.418,2014
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35653.960,2015
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36046.552,2016
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37196.417,2017
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37668.788,2018
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38390.096,2019
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35452.332,2020
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36398.893,2021
+FRA,France,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38135.298,2022
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44032.652,1990
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43767.029,1991
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44113.637,1992
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43411.060,1993
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44054.180,1994
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44652.055,1995
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,45302.002,1996
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,46437.921,1997
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47770.955,1998
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49834.223,1999
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51174.603,2000
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51830.486,2001
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51458.534,2002
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51064.451,2003
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52217.854,2004
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52503.181,2005
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53085.054,2006
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53787.838,2007
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53768.467,2008
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51998.237,2009
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52552.785,2010
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53587.138,2011
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53364.134,2012
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53338.321,2013
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53101.148,2014
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53493.332,2015
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53800.972,2016
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,54540.752,2017
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55498.063,2018
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56003.340,2019
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,50836.723,2020
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56925.914,2021
+FRA,France,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57262.857,2022
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,33961.640,1990
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,33987.648,1991
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34403.698,1992
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34071.066,1993
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34689.665,1994
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35295.018,1995
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35848.999,1996
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36687.480,1997
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37897.329,1998
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39258.213,1999
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40350.375,2000
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40941.127,2001
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40801.581,2002
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40961.000,2003
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41833.874,2004
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42345.123,2005
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43199.952,2006
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43972.272,2007
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43919.108,2008
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42495.407,2009
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43113.320,2010
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43984.144,2011
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43709.333,2012
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43760.654,2013
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43945.597,2014
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44282.823,2015
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44633.572,2016
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45584.571,2017
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46291.009,2018
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46907.185,2019
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42890.702,2020
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46321.887,2021
+FRA,France,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47378.743,2022
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.781,1990
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.791,1991
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.798,1992
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.802,1993
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.815,1994
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.820,1995
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.825,1996
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.830,1997
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.834,1998
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.838,1999
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.835,2000
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.838,2001
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.840,2002
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.845,2003
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.852,2004
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.860,2005
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.865,2006
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.869,2007
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.869,2008
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.869,2009
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.872,2010
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.877,2011
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.877,2012
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.880,2013
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.884,2014
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.886,2015
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.888,2016
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.892,2017
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.896,2018
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.899,2019
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.895,2020
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.898,2021
+FRA,France,hdi_f,HDI female,GDI,Gender Development Index,0.903,2022
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.795,1990
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.804,1991
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.810,1992
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.814,1993
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.829,1994
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.835,1995
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.840,1996
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.845,1997
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.849,1998
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.854,1999
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.851,2000
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.854,2001
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.856,2002
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.859,2003
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.867,2004
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.874,2005
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.878,2006
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.880,2007
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.882,2008
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.879,2009
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.885,2010
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.889,2011
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.891,2012
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.894,2013
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.897,2014
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.898,2015
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.902,2016
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.904,2017
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.908,2018
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.910,2019
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.904,2020
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.911,2021
+FRA,France,hdi_m,HDI male,GDI,Gender Development Index,0.916,2022
+FRA,France,hdi_rank,HDI Rank,HDI,Human Development Index,28,2022
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,8.698,2010
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.567,2011
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,6.794,2012
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,6.440,2013
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.498,2014
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.091,2015
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.392,2016
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.135,2017
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.486,2018
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.173,2019
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.735,2020
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.315,2021
+FRA,France,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,7.787,2022
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.565,2010
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.087,2011
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.080,2012
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.917,2013
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.957,2014
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.930,2015
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.714,2016
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.655,2017
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.309,2018
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.971,2019
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.484,2020
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.889,2021
+FRA,France,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.887,2022
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,4.029,2010
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.895,2011
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.884,2012
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.932,2013
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.837,2014
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.922,2015
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.874,2016
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.932,2017
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.970,2018
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.911,2019
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.856,2020
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.816,2021
+FRA,France,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.626,2022
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.834,1990
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.014,1991
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.296,1992
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.348,1993
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.768,1994
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.871,1995
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.061,1996
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.425,1997
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.588,1998
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.751,1999
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.047,2000
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.224,2001
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.413,2002
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.421,2003
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.339,2004
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.339,2005
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.748,2006
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.967,2007
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.049,2008
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.178,2009
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.427,2010
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.813,2011
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.774,2012
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.016,2013
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.476,2014
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.186,2015
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.437,2016
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.473,2017
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.591,2018
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.731,2019
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.21,2020
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.499,2021
+FRA,France,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.229,2022
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.963,1990
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.169,1991
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.458,1992
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.459,1993
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.886,1994
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.9,1995
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.048,1996
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.306,1997
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.41,1998
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.511,1999
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.797,2000
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.942,2001
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.039,2002
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.954,2003
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.868,2004
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.839,2005
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.189,2006
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.401,2007
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.353,2008
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.452,2009
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.686,2010
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.033,2011
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.898,2012
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.103,2013
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.496,2014
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.206,2015
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.399,2016
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.354,2017
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.488,2018
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.612,2019
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.171,2020
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.485,2021
+FRA,France,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.967,2022
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.722,1990
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.876,1991
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.146,1992
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.247,1993
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.643,1994
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.834,1995
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.063,1996
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.506,1997
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.721,1998
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.938,1999
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.234,2000
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.431,2001
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.704,2002
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.81,2003
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.677,2004
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.721,2005
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.164,2006
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.391,2007
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.593,2008
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.753,2009
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.018,2010
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.428,2011
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.499,2012
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.772,2013
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.28,2014
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.025,2015
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.328,2016
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.45,2017
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.558,2018
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.72,2019
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.169,2020
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.425,2021
+FRA,France,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.356,2022
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.7,1990
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.88,1991
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.3,1992
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.77,1993
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.97,1994
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.22,1995
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.6,1996
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.27,1997
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.59,1998
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.92,1999
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.08,2000
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.86,2001
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.07,2002
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.32,2003
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.14,2004
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.36,2005
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.42,2006
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.77,2007
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.95,2008
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.36,2009
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.37,2010
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.26,2011
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.5,2012
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.72,2013
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.63,2014
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.63,2015
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.62,2016
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.31,2017
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.43,2018
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.26,2019
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.63,2020
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.25,2021
+FRA,France,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.52,2022
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.54,1990
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.78,1991
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.64,1992
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.11,1993
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.74,1994
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.4,1995
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.66,1996
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.32,1997
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63,1998
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.23,1999
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.93,2000
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.71,2001
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.94,2002
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.06,2003
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.94,2004
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.07,2005
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.86,2006
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.69,2007
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.67,2008
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.77,2009
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.58,2010
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.23,2011
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.46,2012
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.57,2013
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.98,2014
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.89,2015
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.64,2016
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.38,2017
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.21,2018
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,59.67,2019
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,58.81,2020
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,59.87,2021
+FRA,France,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.18,2022
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,10.341,2010
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,10.068,2011
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.831,2012
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.234,2013
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.641,2014
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.518,2015
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.487,2016
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,10.011,2017
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,10.410,2018
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,10.497,2019
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.889,2020
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.492,2021
+FRA,France,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.890,2022
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.977,1990
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.659,1991
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.039,1992
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.945,1993
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.417,1994
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.796,1995
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.710,1996
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.073,1997
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.732,1998
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.468,1999
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.403,2000
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.832,2001
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.458,2002
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.759,2003
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.857,2004
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.287,2005
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.371,2006
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.105,2007
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.995,2008
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.248,2009
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.879,2010
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.211,2011
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.814,2012
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.274,2013
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.898,2014
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.830,2015
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.026,2016
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.065,2017
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.474,2018
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.647,2019
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.728,2020
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.110,2021
+FRA,France,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.052,2022
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.426,1990
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.673,1991
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.916,1992
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.474,1993
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.770,1994
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.176,1995
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,13.035,1996
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.692,1997
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.615,1998
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.109,1999
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.361,2000
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.311,2001
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.344,2002
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.198,2003
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.878,2004
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.790,2005
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.843,2006
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.427,2007
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.757,2008
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.791,2009
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.257,2010
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.205,2011
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.974,2012
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.815,2013
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.680,2014
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.595,2015
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.639,2016
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.547,2017
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.802,2018
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.732,2019
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.909,2020
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.909,2021
+FRA,France,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.909,2022
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.553,1990
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.744,1991
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.936,1992
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.128,1993
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.320,1994
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.512,1995
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.703,1996
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.895,1997
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.087,1998
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.279,1999
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.471,2000
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.662,2001
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.854,2002
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.046,2003
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.238,2004
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.317,2005
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.444,2006
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.570,2007
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.654,2008
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.632,2009
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.779,2010
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.852,2011
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.935,2012
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.081,2013
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.226,2014
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.334,2015
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.351,2016
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.410,2017
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.510,2018
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.610,2019
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.689,2020
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.689,2021
+FRA,France,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.689,2022
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.233,1990
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.427,1991
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.621,1992
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.815,1993
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.009,1994
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.202,1995
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.396,1996
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.590,1997
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.784,1998
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.977,1999
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.171,2000
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.365,2001
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.559,2002
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.752,2003
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.946,2004
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.030,2005
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.173,2006
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.315,2007
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.412,2008
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.501,2009
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.527,2010
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.614,2011
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.710,2012
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.841,2013
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.981,2014
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.123,2015
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.131,2016
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.207,2017
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.322,2018
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.437,2019
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.531,2020
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.531,2021
+FRA,France,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.531,2022
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.906,1990
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.096,1991
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.286,1992
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.476,1993
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.666,1994
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.855,1995
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.045,1996
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.235,1997
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.425,1998
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.614,1999
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.804,2000
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.994,2001
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.184,2002
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.373,2003
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.563,2004
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.637,2005
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.744,2006
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.852,2007
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.925,2008
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.776,2009
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.060,2010
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.117,2011
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.186,2012
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.347,2013
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.497,2014
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.569,2015
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.594,2016
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.634,2017
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.718,2018
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.803,2019
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.865,2020
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.865,2021
+FRA,France,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.865,2022
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1990
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1991
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1992
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1993
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1994
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1995
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1996
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1997
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.020,1998
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.131,1999
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.131,2000
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.913,2001
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.693,2002
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.732,2003
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.923,2004
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.923,2005
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.923,2006
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.192,2007
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.565,2008
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20,2009
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20,2010
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.130,2011
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.108,2012
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.108,2013
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.730,2014
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.730,2015
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.730,2016
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.351,2017
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.714,2018
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.865,2019
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.189,2020
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.838,2021
+FRA,France,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.432,2022
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1990
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1991
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1992
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1993
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1994
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1995
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1996
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1997
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.980,1998
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.869,1999
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.869,2000
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.087,2001
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.307,2002
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.268,2003
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.077,2004
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.077,2005
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.077,2006
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.808,2007
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.435,2008
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80,2009
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80,2010
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.870,2011
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.892,2012
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.892,2013
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.270,2014
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.270,2015
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.270,2016
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.649,2017
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.286,2018
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.135,2019
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.811,2020
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.162,2021
+FRA,France,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.568,2022
+FRA,France,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,17,2022
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,44.433,1990
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,46.310,1991
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,48.187,1992
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,50.064,1993
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,51.941,1994
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.818,1995
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,55.695,1996
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,57.572,1997
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,59.449,1998
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.326,1999
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.203,2000
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.080,2001
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.957,2002
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.834,2003
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,70.712,2004
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.341,2005
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.767,2006
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.194,2007
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.159,2008
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.853,2009
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.407,2010
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,77.198,2011
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.023,2012
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.769,2013
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,79.850,2014
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.755,2015
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.159,2016
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.893,2017
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,82.715,2018
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,83.537,2019
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.294,2020
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.294,2021
+FRA,France,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.294,2022
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.704,1990
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,54.506,1991
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.307,1992
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.109,1993
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,59.911,1994
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.713,1995
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,63.515,1996
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,65.317,1997
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,67.118,1998
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,68.920,1999
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.722,2000
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.524,2001
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.326,2002
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.128,2003
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.929,2004
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.417,2005
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.184,2006
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.952,2007
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.051,2008
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.446,2009
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.342,2010
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.721,2011
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.223,2012
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,84.530,2013
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.721,2014
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.926,2015
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.488,2016
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.790,2017
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,87.341,2018
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,87.891,2019
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,88.332,2020
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,88.332,2021
+FRA,France,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,88.332,2022
